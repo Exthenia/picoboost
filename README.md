@@ -1,6 +1,12 @@
 # picoboost
 **[ALL CODE SO FAR WRITTEN AND COMPILED BY OPEN-AI]**
 
+PicoBoost is a small but powerful boost controller for automotive enthusiasts. This Git project is focused on delivering the rolling_antilag.py script, a key component of the PicoBoost experience.
+
+With the picoboost script, users will be able to fine-tune their boost control with precision and accuracy. The script reads potentiometer values and button states to provide real-time feedback on boost status. The RGB LED also provides visual feedback on the status of the rolling anti-lag feature.
+
+Join the PicoBoost community today and help discover a new form of precision simulation boost control!
+
 ![Adobe_Premiere_Pro_AETVA5tBNG](https://user-images.githubusercontent.com/125613577/219510220-6fd60b8e-4815-437b-9f79-4a4b03615ffe.png)
 
 
