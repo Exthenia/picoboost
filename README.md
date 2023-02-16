@@ -1,7 +1,6 @@
 # picoboost
 **[ALL CODE SO FAR WRITTEN AND COMPILED BY OPEN-AI]**
 
-Raspberry Pi Pico micro controller for Assetto Corsa to control in-game turbo boost and KERS deployment.
 ![Adobe_Premiere_Pro_AETVA5tBNG](https://user-images.githubusercontent.com/125613577/219510220-6fd60b8e-4815-437b-9f79-4a4b03615ffe.png)
 
 
