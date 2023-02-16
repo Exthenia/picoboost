@@ -15,3 +15,5 @@ TODO:
 • Add 5 second "boost building" function when KERS button is pressed (LED changes red and blinks for 5 seconds then turns solid green until KERS button is released, then return to original loop)
 
 • Add better smoothing to stop potentiometer readings jumping around
+
+• Have the data shown in Thonny shell on a 16x2 LCD Screen 
