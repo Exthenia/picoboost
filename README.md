@@ -6,5 +6,7 @@ Raspberry Pi Pico micro controller for Assetto Corsa to control in-game turbo bo
 
 TODO:
 • Add functionality to interface with Assetto Corsa
+
 • Add 5 second "boost building" function when KERS button is pressed (LED changes red and blinks for 5 seconds then turns solid green until KERS button is released, then return to original loop)
+
 • Add better smoothing to stop potentiometer readings jumping around
