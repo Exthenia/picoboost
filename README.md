@@ -1,7 +1,7 @@
 # picoboost
 **[ALL CODE SO FAR WRITTEN AND COMPILED BY OPEN-AI]**
 
-PicoBoost is a small but powerful boost controller for automotive enthusiasts. This Git project is focused on delivering the picoboost.py script initially, a key component of the PicoBoost experience.
+PicoBoost is aiming to be a small but powerful boost controller for automotive enthusiasts. This Git project is focused on delivering the picoboost.py script initially, a key component of the PicoBoost experience.
 
 With the picoboost script, users will be able to fine-tune their boost control with precision and accuracy. The script reads potentiometer values and button states to provide real-time feedback on boost status. The RGB LED also provides visual feedback on the status of the rolling anti-lag feature.
 
